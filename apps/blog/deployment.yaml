@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
         - name: blog
-          image: registry.khuedoan.com/blog:latest
+          image: registry.nean.space/blog:latest
           imagePullPolicy: Always
